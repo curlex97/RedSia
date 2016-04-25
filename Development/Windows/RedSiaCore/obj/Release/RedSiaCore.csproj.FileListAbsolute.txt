@@ -1,0 +1,4 @@
+E:\Repos\RedSia\Main\RedSiaCore\bin\Release\RedSiaCore.dll
+E:\Repos\RedSia\Main\RedSiaCore\bin\Release\RedSiaCore.pdb
+E:\Repos\RedSia\Main\RedSiaCore\obj\Release\RedSiaCore.dll
+E:\Repos\RedSia\Main\RedSiaCore\obj\Release\RedSiaCore.pdb

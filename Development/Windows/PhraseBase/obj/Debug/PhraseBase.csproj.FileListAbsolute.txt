@@ -1,0 +1,24 @@
+E:\Google Диск\Программирование\Универ\Проекты\RedSia\PhraseBase\bin\Debug\PhraseBase.dll
+E:\Google Диск\Программирование\Универ\Проекты\RedSia\PhraseBase\bin\Debug\PhraseBase.pdb
+E:\Google Диск\Программирование\Универ\Проекты\RedSia\PhraseBase\bin\Debug\RedSiaCore.dll
+E:\Google Диск\Программирование\Универ\Проекты\RedSia\PhraseBase\obj\Debug\PhraseBase.csprojResolveAssemblyReference.cache
+E:\Google Диск\Программирование\Универ\Проекты\RedSia\PhraseBase\obj\Debug\PhraseBase.dll
+E:\Google Диск\Программирование\Универ\Проекты\RedSia\PhraseBase\obj\Debug\PhraseBase.pdb
+E:\Google Диск\Программирование\Универ\Проекты\RedSia\PhraseBase\bin\Debug\RedSiaCore.pdb
+E:\Repos\RedSia\Main\PhraseBase\bin\Debug\PhraseBase.dll
+E:\Repos\RedSia\Main\PhraseBase\bin\Debug\PhraseBase.pdb
+E:\Repos\RedSia\Main\PhraseBase\bin\Debug\RedSiaCore.dll
+E:\Repos\RedSia\Main\PhraseBase\bin\Debug\RedSiaCore.pdb
+E:\Repos\RedSia\Main\PhraseBase\obj\Debug\PhraseBase.csprojResolveAssemblyReference.cache
+E:\Repos\RedSia\Main\PhraseBase\obj\Debug\PhraseBase.dll
+E:\Repos\RedSia\Main\PhraseBase\obj\Debug\PhraseBase.pdb
+E:\Repos\RedSia\Development\Windows\PhraseBase\bin\Debug\PhraseBase.dll
+E:\Repos\RedSia\Development\Windows\PhraseBase\bin\Debug\PhraseBase.pdb
+E:\Repos\RedSia\Development\Windows\PhraseBase\bin\Debug\RedSiaCore.dll
+E:\Repos\RedSia\Development\Windows\PhraseBase\bin\Debug\RedSiaCore.pdb
+E:\Repos\RedSia\Development\Windows\PhraseBase\obj\Debug\PhraseBase.dll
+E:\Repos\RedSia\Development\Windows\PhraseBase\obj\Debug\PhraseBase.pdb
+E:\Repos\RedSia\Development\Windows\PhraseBase\obj\Debug\PhraseBase.csprojResolveAssemblyReference.cache
+E:\Repos\RedSia\Development\Windows\PhraseBase\bin\Debug\HtmlAgilityPack.dll
+E:\Repos\RedSia\Development\Windows\PhraseBase\bin\Debug\HtmlAgilityPack.pdb
+E:\Repos\RedSia\Development\Windows\PhraseBase\bin\Debug\HtmlAgilityPack.xml

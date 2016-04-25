@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<library> 
+  <load type="IST" name="KeyboardPrint" destination="SE"/>
+    <load type="IST" name="StartTask" destination="SE"/>
+  <load type="IST" name="ProcessingConditions" destination="SE"/>
+  <load type="IST" name="SetVariable" destination="SE"/>
+  <load type="IST" name="ProcessingConditions" destination="ET"/>
+  <load type="IST" name="SetVariable" destination="ET"/>
+  <load type="IST" name="Speak" destination="SE"/>
+  <load type="IST" name="AddIpt" destination="SE"/>
+  <load type="IST" name="WikiSearch" destination="SE"/>
+  <load type="IST" name="StateReturn" destination="ET"/>
+  
+  <load type="IPT" name="Cancel" destination="SE"/>
+  <load type="IPT" name="TestEmoTone" destination="ET"/>
+  <load type="IPT" name="Calc" destination="SE"/>
+  <load type="IPT" name="WikiSearch" destination="SE"/>
+
+
+  <translator name="Cancel" interpreter="default">
+    <call value="Забей" />
+    <speak relation="100" group="0" value="Уже забила" />
+    <speak relation="100" group="0" value="Забила" />
+    <speak relation="100" group="0" value="Окей" />
+  </translator>
+  
+  
+  <translator name="TestEmoTone" interpreter="default">
+    <call value="старт" />
+    <call value="стоп" />
+  </translator>
+
+
+  <translator name="Calc" interpreter="default">
+    <call value="сколько будет" />
+    <call value="посчитай" />
+    <call value="вычисли" />
+    <speak relation="100" group="3" value="Слишком большая степень" />
+    <speak relation="100" group="3" value="Черезчур большая степень" />
+    <speak relation="100" group="3" value="Очень большая степень" />
+    <speak relation="100" group="2" value="Не могу посчитать" />
+    <speak relation="100" group="2" value="Неправильное выражение" />
+    <speak relation="100" group="2" value="Вы что-то напутали" />
+  </translator>
+
+
+  <translator name="WikiSearch" interpreter="default">
+    <call value="расскажи;что такое" />
+    <call value="расскажи;кто такой" />
+    <call value="расскажи;кто такая" />
+    <call value="расскажи;кто такие" />
+    <call value="найди;что такое" />
+    <call value="найди;кто такой" />
+    <call value="найди;кто такая" />
+    <call value="найди;кто такие" />
+    <call value="поведай;что такое" />
+    <call value="поведай;кто такой" />
+    <call value="поведай;кто такая" />
+    <call value="поведай;кто такие" />
+  <speak relation="100" group="1" value="Я нашла" />
+  <speak relation="100" group="1" value="Есть" />
+  <speak relation="100" group="1" value="Мне удалось найти" />
+    
+    <speak relation="100" group="31" value="Я так понимаю" />
+    <speak relation="100" group="31" value="Я думаю" />
+    <speak relation="100" group="31" value="Мне кажется" />
+    <speak relation="100" group="32" value="вы искали" />
+    <speak relation="100" group="32" value="вас интересует" />
+
+  <speak relation="100" group="2" value="Не могу найти" />
+  <speak relation="100" group="2" value="Не знаю что такое" />
+  <speak relation="100" group="2" value="Сама не знаю что такое" />
+  </translator>
+  
+  <translator name="DetailWikiSearch" interpreter="default">
+    <call value="да" />
+    <call value="точно" />
+   <call value="ага" />
+   <call value="именно" />
+   <call value="нет" />
+   <call value="не то" />
+  <call value="не это" />
+  <call value="дальше" />
+    <speak relation="100" group="30" value="Тогда" />
+    <speak relation="100" group="30" value="В таком случае" />
+    <speak relation="100" group="30" value="Ну тогда" />
+    <speak relation="100" group="31" value="Может быть" />
+    <speak relation="100" group="31" value="Наверное" />
+    <speak relation="100" group="31" value="Скорее всего" />
+    <speak relation="100" group="32" value="вы искали" />
+    <speak relation="100" group="32" value="вас интересует" />
+    <speak relation="100" group="40" value="Прошу прощения" />
+    <speak relation="100" group="40" value="Прости" />
+    <speak relation="100" group="40" value="Извини" />
+    <speak relation="100" group="41" value="Варианты закончились" />
+    <speak relation="100" group="41" value="Больше не осталось вариантов" />
+    <speak relation="100" group="41" value="Другой информации нет" />
+    <speak relation="100" group="50" value="Прости" />
+    <speak relation="100" group="50" value="Извини" />
+    <speak relation="100" group="50" value="Прости" />
+    <speak relation="100" group="51" value="По моему" />
+    <speak relation="100" group="51" value="Мне кажется" />
+    <speak relation="100" group="52" value="твой вопрос" />
+    <speak relation="100" group="52" value="твой запрос" />
+    <speak relation="100" group="53" value="слишком" />
+    <speak relation="100" group="53" value="через чур" />
+    <speak relation="100" group="53" value="уж очень" />
+    <speak relation="100" group="54" value="расплывчат" />
+    <speak relation="100" group="54" value="абстрактен" />
+    <speak relation="100" group="54" value="обобщённый" />
+  </translator>
+
+
+ <translator name="ManipWikiSearch" interpreter="default">
+    <call value="открой" />
+   <call value="покажи" />
+   <call value="на экран" />
+   <call value="расскажи;подробнее" />
+   <call value="расскажи;детальнее" />
+   <call value="продолжай" />
+    <speak relation="100" group="0" value="Открываю" />
+ <speak relation="100" group="0" value="Одну секунду" />
+  <speak relation="100" group="0" value="Пожалуйста" />
+<speak relation="100" group="0" value="Без проблем" />
+<speak relation="100" group="0" value="Не благодари" />
+  </translator>
+
+</library>

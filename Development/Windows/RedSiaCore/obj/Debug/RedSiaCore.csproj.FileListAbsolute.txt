@@ -1,0 +1,15 @@
+E:\Google Диск\Программирование\Универ\Проекты\RedSia\RedSiaCore\obj\Debug\RedSiaCore.csprojResolveAssemblyReference.cache
+E:\Google Диск\Программирование\Универ\Проекты\RedSia\RedSiaCore\bin\Debug\RedSiaCore.dll
+E:\Google Диск\Программирование\Универ\Проекты\RedSia\RedSiaCore\bin\Debug\RedSiaCore.pdb
+E:\Google Диск\Программирование\Универ\Проекты\RedSia\RedSiaCore\obj\Debug\RedSiaCore.dll
+E:\Google Диск\Программирование\Универ\Проекты\RedSia\RedSiaCore\obj\Debug\RedSiaCore.pdb
+E:\Repos\RedSia\Main\RedSiaCore\bin\Debug\RedSiaCore.dll
+E:\Repos\RedSia\Main\RedSiaCore\bin\Debug\RedSiaCore.pdb
+E:\Repos\RedSia\Main\RedSiaCore\obj\Debug\RedSiaCore.dll
+E:\Repos\RedSia\Main\RedSiaCore\obj\Debug\RedSiaCore.pdb
+E:\Repos\RedSia\Main\RedSiaCore\obj\Debug\RedSiaCore.csprojResolveAssemblyReference.cache
+E:\Repos\RedSia\Development\Windows\RedSiaCore\bin\Debug\RedSiaCore.dll
+E:\Repos\RedSia\Development\Windows\RedSiaCore\bin\Debug\RedSiaCore.pdb
+E:\Repos\RedSia\Development\Windows\RedSiaCore\obj\Debug\RedSiaCore.dll
+E:\Repos\RedSia\Development\Windows\RedSiaCore\obj\Debug\RedSiaCore.pdb
+E:\Repos\RedSia\Development\Windows\RedSiaCore\obj\Debug\RedSiaCore.csprojResolveAssemblyReference.cache
